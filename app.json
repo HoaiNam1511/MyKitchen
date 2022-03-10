@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "MyKetchen",
-    "slug": "MyKetchen",
+    "name": "MyKitchen",
+    "slug": "MyKitchen",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/LogoChinhThuc.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Group35.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.hoainam1511.MyKetchen"
     },
     "web": {
       "favicon": "./assets/favicon.png"
